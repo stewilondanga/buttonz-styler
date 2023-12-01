@@ -631,10 +631,11 @@ video {
   margin-left: -3rem;
 }
 
-/*.-ml-2 {
+.-ml-2 {
   margin-left: -0.5rem;
 }
-.-ml-3 {
+
+/*.-ml-3 {
   margin-left: -0.75rem;
 }
 .-mr-1 {
