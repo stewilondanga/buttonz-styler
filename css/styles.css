@@ -166,7 +166,8 @@ a {
 }
 
 @import url(https://fonts.googleapis.com/css2?family=REM:wght@100;200;400;500;600;700;800&display=swap);
-/**,
+
+*,
 ::after,
 ::before {
   box-sizing: border-box;
@@ -219,7 +220,8 @@ a {
   --tw-backdrop-saturate: ;
   --tw-backdrop-sepia: ;
 }
-::after,
+
+/*::after,
 ::before {
   --tw-content: "";
 }
