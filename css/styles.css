@@ -743,10 +743,11 @@ video {
   display: block;
 }
 
-/*.inline-block {
+.inline-block {
   display: inline-block;
 }
-.flex {
+
+/*.flex {
   display: flex;
 }
 .inline-flex {
