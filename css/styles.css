@@ -683,10 +683,11 @@ video {
   margin-bottom: 0.75rem;
 }
 
-/*.mb-32 {
+.mb-32 {
   margin-bottom: 8rem;
 }
-.mb-9 {
+
+/*.mb-9 {
   margin-bottom: 2.25rem;
 }
 .ml-0 {
