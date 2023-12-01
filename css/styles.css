@@ -395,11 +395,12 @@ fieldset {
   padding: 0;
 }
 
-/*dialog,
+dialog,
 legend {
   padding: 0;
 }
-menu,
+
+/*menu,
 ol,
 ul {
   list-style: none;
