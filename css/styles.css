@@ -274,7 +274,7 @@ strong {
   font-weight: bolder;
 }
 
-/*code,
+code,
 kbd,
 pre,
 samp {
@@ -282,7 +282,8 @@ samp {
     "Liberation Mono", "Courier New", monospace;
   font-size: 1em;
 }
-small {
+
+/*small {
   font-size: 80%;
 }
 sub,
