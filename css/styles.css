@@ -561,10 +561,11 @@ video {
   position: absolute;
 }
 
-/*.relative {
+.relative {
   position: relative;
 }
-.inset-0 {
+
+/*.inset-0 {
   inset: 0px;
 }
 .bottom-0 {
