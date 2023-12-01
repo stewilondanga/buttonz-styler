@@ -610,11 +610,12 @@ video {
   margin-right: 2.5rem;
 }
 
-/*.mx-auto {
+.mx-auto {
   margin-left: auto;
   margin-right: auto;
 }
-.-mb-1 {
+
+/*.-mb-1 {
   margin-bottom: -0.25rem;
 }
 .-mb-8 {
