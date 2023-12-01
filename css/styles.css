@@ -295,10 +295,11 @@ sup {
   vertical-align: baseline;
 }
 
-/*sub {
+sub {
   bottom: -0.25em;
 }
-sup {
+
+/*sup {
   top: -0.5em;
 }
 table {
