@@ -361,10 +361,11 @@ progress {
   outline-offset: -2px;
 }
 
-/*
 ::-webkit-search-decoration {
   -webkit-appearance: none;
 }
+
+/*
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   font: inherit;
