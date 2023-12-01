@@ -303,12 +303,13 @@ sup {
   top: -0.5em;
 }
 
-/*table {
+table {
   text-indent: 0;
   border-color: inherit;
   border-collapse: collapse;
 }
-button,
+
+/*button,
 input,
 optgroup,
 select,
