@@ -347,10 +347,11 @@ button {
   box-shadow: none;
 }
 
-/*
 progress {
   vertical-align: baseline;
 }
+
+/*
 ::-webkit-inner-spin-button,
 ::-webkit-outer-spin-button {
   height: auto;
