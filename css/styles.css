@@ -513,14 +513,15 @@ video {
   padding-left: 1rem;
 }
 
-/*@media (min-width: 640px) {
+@media (min-width: 640px) {
   .container {
     max-width: 640px;
     padding-right: 1rem;
     padding-left: 1rem;
   }
 }
-@media (min-width: 768px) {
+
+/*@media (min-width: 768px) {
   .container {
     max-width: 768px;
     padding-right: 1rem;
