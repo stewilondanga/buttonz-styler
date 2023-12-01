@@ -451,9 +451,12 @@ video {
   height: auto;
 }
 
-/*[hidden] {
+[hidden] {
   display: none;
 }
+
+/*
+
 ::backdrop {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
