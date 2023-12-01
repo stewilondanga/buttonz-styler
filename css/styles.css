@@ -831,10 +831,11 @@ video {
   height: 2rem;
 }
 
-/*.h-full {
+.h-full {
   height: 100%;
 }
-.w-0 {
+
+/*.w-0 {
   width: 0;
 }
 .w-0\.5 {
