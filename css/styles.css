@@ -370,11 +370,11 @@ progress {
   font: inherit;
 }
 
-/*
 summary {
   display: list-item;
 }
-blockquote,
+
+/*blockquote,
 dd,
 dl,
 figure,
