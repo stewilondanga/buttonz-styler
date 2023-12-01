@@ -390,11 +390,12 @@ pre {
   margin: 0;
 }
 
-/*fieldset {
+fieldset {
   margin: 0;
   padding: 0;
 }
-dialog,
+
+/*dialog,
 legend {
   padding: 0;
 }
