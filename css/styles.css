@@ -751,10 +751,11 @@ video {
   display: flex;
 }
 
-/*.inline-flex {
+.inline-flex {
   display: inline-flex;
 }
-.grid {
+
+/*.grid {
   display: grid;
 }
 .hidden {
