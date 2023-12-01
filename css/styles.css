@@ -747,10 +747,11 @@ video {
   display: inline-block;
 }
 
-/*.flex {
+.flex {
   display: flex;
 }
-.inline-flex {
+
+/*.inline-flex {
   display: inline-flex;
 }
 .grid {
