@@ -424,11 +424,12 @@ textarea::placeholder {
   color: #9ca3af;
 }
 
-/*[role="button"],
+[role="button"],
 button {
   cursor: pointer;
 }
-:disabled {
+
+/*:disabled {
   cursor: default;
 }
 audio,
