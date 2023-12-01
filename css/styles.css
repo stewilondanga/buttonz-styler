@@ -343,10 +343,11 @@ button {
   outline: auto;
 }
 
-/*
 :-moz-ui-invalid {
   box-shadow: none;
 }
+
+/*
 progress {
   vertical-align: baseline;
 }
