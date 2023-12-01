@@ -374,7 +374,7 @@ summary {
   display: list-item;
 }
 
-/*blockquote,
+blockquote,
 dd,
 dl,
 figure,
@@ -389,7 +389,8 @@ p,
 pre {
   margin: 0;
 }
-fieldset {
+
+/*fieldset {
   margin: 0;
   padding: 0;
 }
