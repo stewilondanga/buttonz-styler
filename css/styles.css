@@ -545,14 +545,15 @@ video {
   }
 }
 
-/*@media (min-width: 1536px) {
+@media (min-width: 1536px) {
   .container {
     max-width: 1536px;
     padding-right: 14rem;
     padding-left: 14rem;
   }
 }
-.invisible {
+
+/*.invisible {
   visibility: hidden;
 }
 .absolute {
