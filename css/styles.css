@@ -365,11 +365,12 @@ progress {
   -webkit-appearance: none;
 }
 
-/*
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   font: inherit;
 }
+
+/*
 summary {
   display: list-item;
 }
