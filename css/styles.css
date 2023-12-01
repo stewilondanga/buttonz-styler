@@ -787,10 +787,11 @@ video {
   height: 3rem;
 }
 
-/*.h-16 {
+.h-16 {
   height: 4rem;
 }
-.h-20 {
+
+/*.h-20 {
   height: 5rem;
 }
 .h-24 {
