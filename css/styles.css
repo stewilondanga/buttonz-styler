@@ -269,11 +269,12 @@ a {
   text-decoration: inherit;
 }
 
-/*b,
+b,
 strong {
   font-weight: bolder;
 }
-code,
+
+/*code,
 kbd,
 pre,
 samp {
