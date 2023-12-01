@@ -735,10 +735,11 @@ video {
   margin-top: 0.25rem;
 }
 
-/*.box-border {
+.box-border {
   box-sizing: border-box;
 }
-.block {
+
+/*.block {
   display: block;
 }
 .inline-block {
