@@ -239,11 +239,12 @@ html {
   scroll-behavior: smooth;
 }
 
-/*body {
+body {
   margin: 0;
   line-height: inherit;
 }
-hr {
+
+/*hr {
   height: 0;
   color: inherit;
   border-top-width: 1px;
