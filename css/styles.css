@@ -863,10 +863,11 @@ video {
   width: 8rem;
 }
 
-/*.w-4 {
+.w-4 {
   width: 1rem;
 }
-.w-40 {
+
+/*.w-40 {
   width: 10rem;
 }
 .w-48 {
