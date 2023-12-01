@@ -264,11 +264,12 @@ h6 {
   font-size: inherit;
 }
 
-/*a {
+a {
   color: inherit;
   text-decoration: inherit;
 }
-b,
+
+/*b,
 strong {
   font-weight: bolder;
 }
