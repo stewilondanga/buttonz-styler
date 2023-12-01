@@ -553,13 +553,15 @@ video {
   }
 }
 
-/*.invisible {
+.invisible {
   visibility: hidden;
 }
+
 .absolute {
   position: absolute;
 }
-.relative {
+
+/*.relative {
   position: relative;
 }
 .inset-0 {
