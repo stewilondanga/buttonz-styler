@@ -623,10 +623,11 @@ video {
   margin-bottom: -2rem;
 }
 
-/*.-ml-10 {
+.-ml-10 {
   margin-left: -2.5rem;
 }
-.-ml-12 {
+
+/*.-ml-12 {
   margin-left: -3rem;
 }
 .-ml-2 {
