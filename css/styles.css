@@ -429,10 +429,11 @@ button {
   cursor: pointer;
 }
 
-/*:disabled {
+:disabled {
   cursor: default;
 }
-audio,
+
+/*audio,
 canvas,
 embed,
 iframe,
