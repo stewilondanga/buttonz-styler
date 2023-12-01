@@ -739,10 +739,11 @@ video {
   box-sizing: border-box;
 }
 
-/*.block {
+.block {
   display: block;
 }
-.inline-block {
+
+/*.inline-block {
   display: inline-block;
 }
 .flex {
