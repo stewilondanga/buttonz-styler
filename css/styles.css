@@ -299,10 +299,11 @@ sub {
   bottom: -0.25em;
 }
 
-/*sup {
+sup {
   top: -0.5em;
 }
-table {
+
+/*table {
   text-indent: 0;
   border-color: inherit;
   border-collapse: collapse;
