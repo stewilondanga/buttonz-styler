@@ -779,10 +779,11 @@ video {
   height: 33.333333%;
 }
 
-/*.h-10 {
+.h-10 {
   height: 2.5rem;
 }
-.h-12 {
+
+/*.h-12 {
   height: 3rem;
 }
 .h-16 {
