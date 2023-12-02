@@ -1337,11 +1337,12 @@ video {
   background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 
-/*.bg-sky-500 {
+.bg-sky-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(14 165 233 / var(--tw-bg-opacity));
 }
-.bg-transparent {
+
+/*.bg-transparent {
   background-color: transparent;
 }
 .bg-white {
