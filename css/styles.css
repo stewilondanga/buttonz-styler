@@ -1503,10 +1503,11 @@ video {
   --tw-gradient-to: #9333ea var(--tw-gradient-to-position);
 }
 
-/*.to-transparent {
+.to-transparent {
   --tw-gradient-to: transparent var(--tw-gradient-to-position);
 }
-.bg-clip-text {
+
+/*.bg-clip-text {
   -webkit-background-clip: text;
   background-clip: text;
 }
