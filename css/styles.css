@@ -1529,11 +1529,12 @@ video {
   padding: 1rem;
 }
 
-/*.px-10 {
+.px-10 {
   padding-left: 2.5rem;
   padding-right: 2.5rem;
 }
-.px-12 {
+
+/*.px-12 {
   padding-left: 3rem;
   padding-right: 3rem;
 }
