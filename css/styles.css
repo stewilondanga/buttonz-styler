@@ -1685,10 +1685,11 @@ video {
   font-weight: 600;
 }
 
-/*.uppercase {
+.uppercase {
   text-transform: uppercase;
 }
-.leading-6 {
+
+/*.leading-6 {
   line-height: 1.5rem;
 }
 .leading-\[50px\] {
