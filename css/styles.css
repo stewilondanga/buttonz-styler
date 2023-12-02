@@ -1459,10 +1459,11 @@ video {
     transparent var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 
-/*.to-\[\#ff00c6\] {
+.to-\[\#ff00c6\] {
   --tw-gradient-to: #ff00c6 var(--tw-gradient-to-position);
 }
-.to-blue-400 {
+
+/*.to-blue-400 {
   --tw-gradient-to: #60a5fa var(--tw-gradient-to-position);
 }
 .to-blue-500 {
