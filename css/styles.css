@@ -1219,10 +1219,11 @@ video {
   border-color: rgb(126 34 206 / var(--tw-border-opacity));
 }
 
-/*.border-transparent {
+.border-transparent {
   border-color: transparent;
 }
-.border-white {
+
+/*.border-white {
   --tw-border-opacity: 1;
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
 }
