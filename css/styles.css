@@ -1089,10 +1089,11 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
-/*.items-center {
+.items-center {
   align-items: center;
 }
-.justify-start {
+
+/*.justify-start {
   justify-content: flex-start;
 }
 .justify-center {
