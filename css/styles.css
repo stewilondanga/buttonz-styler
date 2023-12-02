@@ -1133,10 +1133,11 @@ video {
   border-radius: 0.75rem;
 }
 
-/*.border {
+.border {
   border-width: 1px;
 }
-.border-0 {
+
+/*.border-0 {
   border-width: 0;
 }
 .border-2 {
