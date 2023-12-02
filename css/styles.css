@@ -1499,10 +1499,11 @@ video {
   --tw-gradient-to: #a855f7 var(--tw-gradient-to-position);
 }
 
-/*.to-purple-600 {
+.to-purple-600 {
   --tw-gradient-to: #9333ea var(--tw-gradient-to-position);
 }
-.to-transparent {
+
+/*.to-transparent {
   --tw-gradient-to: transparent var(--tw-gradient-to-position);
 }
 .bg-clip-text {
