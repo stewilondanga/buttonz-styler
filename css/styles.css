@@ -903,10 +903,11 @@ video {
   transform-origin: bottom left;
 }
 
-/*.origin-center {
+.origin-center {
   transform-origin: center;
 }
-.origin-top-right {
+
+/*.origin-top-right {
   transform-origin: top right;
 }
 .-translate-x-1 {
