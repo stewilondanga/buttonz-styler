@@ -1367,10 +1367,11 @@ video {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 
-/*.bg-gradient-to-t {
+.bg-gradient-to-t {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
 }
-.bg-gradient-to-tr {
+
+/*.bg-gradient-to-tr {
   background-image: linear-gradient(to top right, var(--tw-gradient-stops));
 }
 .from-\[\#ff8a05\] {
