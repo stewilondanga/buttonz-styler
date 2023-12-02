@@ -1697,10 +1697,11 @@ video {
   line-height: 50px;
 }
 
-/*.leading-tight {
+.leading-tight {
   line-height: 1.25;
 }
-.tracking-tighter {
+
+/*.tracking-tighter {
   letter-spacing: -0.05em;
 }
 .tracking-wide {
