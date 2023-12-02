@@ -1616,10 +1616,11 @@ video {
   padding-left: 0.625rem;
 }
 
-/*.pl-4 {
+.pl-4 {
   padding-left: 1rem;
 }
-.pr-12 {
+
+/*.pr-12 {
   padding-right: 3rem;
 }
 .pr-4 {
