@@ -1129,10 +1129,11 @@ video {
   border-radius: 0.375rem;
 }
 
-/*.rounded-xl {
+.rounded-xl {
   border-radius: 0.75rem;
 }
-.border {
+
+/*.border {
   border-width: 1px;
 }
 .border-0 {
