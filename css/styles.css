@@ -1287,11 +1287,12 @@ video {
   background-color: rgb(236 72 153 / var(--tw-bg-opacity));
 }
 
-/*.bg-pink-800 {
+.bg-pink-800 {
   --tw-bg-opacity: 1;
   background-color: rgb(157 23 77 / var(--tw-bg-opacity));
 }
-.bg-purple-400 {
+
+/*.bg-purple-400 {
   --tw-bg-opacity: 1;
   background-color: rgb(192 132 252 / var(--tw-bg-opacity));
 }
