@@ -1117,10 +1117,11 @@ video {
   border-radius: 1rem;
 }
 
-/*.rounded-full {
+.rounded-full {
   border-radius: 9999px;
 }
-.rounded-lg {
+
+/*.rounded-lg {
   border-radius: 0.5rem;
 }
 .rounded-md {
