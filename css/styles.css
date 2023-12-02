@@ -1109,10 +1109,11 @@ video {
   overflow: hidden;
 }
 
-/*.rounded {
+.rounded {
   border-radius: 0.25rem;
 }
-.rounded-2xl {
+
+/*.rounded-2xl {
   border-radius: 1rem;
 }
 .rounded-full {
