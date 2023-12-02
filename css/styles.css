@@ -1079,12 +1079,13 @@ video {
   cursor: pointer;
 }
 
-/*.select-none {
+.select-none {
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
 }
-.grid-cols-1 {
+
+/*.grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 .items-center {
