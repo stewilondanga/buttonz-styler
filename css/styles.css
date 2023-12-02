@@ -1085,10 +1085,11 @@ video {
   user-select: none;
 }
 
-/*.grid-cols-1 {
+.grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
-.items-center {
+
+/*.items-center {
   align-items: center;
 }
 .justify-start {
