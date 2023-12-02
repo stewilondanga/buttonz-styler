@@ -1214,11 +1214,12 @@ video {
   border-color: rgb(168 85 247 / var(--tw-border-opacity));
 }
 
-/*.border-purple-700 {
+.border-purple-700 {
   --tw-border-opacity: 1;
   border-color: rgb(126 34 206 / var(--tw-border-opacity));
 }
-.border-transparent {
+
+/*.border-transparent {
   border-color: transparent;
 }
 .border-white {
