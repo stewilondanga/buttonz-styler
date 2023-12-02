@@ -895,10 +895,11 @@ video {
   width: auto;
 }
 
-/*.w-full {
+.w-full {
   width: 100%;
 }
-.origin-bottom-left {
+
+/*.origin-bottom-left {
   transform-origin: bottom left;
 }
 .origin-center {
