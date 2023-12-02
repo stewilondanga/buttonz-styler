@@ -1640,10 +1640,11 @@ video {
   text-align: left;
 }
 
-/*.text-center {
+.text-center {
   text-align: center;
 }
-.align-middle {
+
+/*.align-middle {
   vertical-align: middle;
 }
 .text-4xl {
