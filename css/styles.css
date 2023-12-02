@@ -1093,10 +1093,11 @@ video {
   align-items: center;
 }
 
-/*.justify-start {
+.justify-start {
   justify-content: flex-start;
 }
-.justify-center {
+
+/*.justify-center {
   justify-content: center;
 }
 .gap-6 {
