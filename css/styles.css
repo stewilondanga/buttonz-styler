@@ -1632,10 +1632,11 @@ video {
   padding-right: 1.25rem;
 }
 
-/*.pt-28 {
+.pt-28 {
   padding-top: 7rem;
 }
-.text-left {
+
+/*.text-left {
   text-align: left;
 }
 .text-center {
