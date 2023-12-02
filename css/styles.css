@@ -1681,10 +1681,11 @@ video {
   font-weight: 500;
 }
 
-/*.font-semibold {
+.font-semibold {
   font-weight: 600;
 }
-.uppercase {
+
+/*.uppercase {
   text-transform: uppercase;
 }
 .leading-6 {
