@@ -1648,11 +1648,12 @@ video {
   vertical-align: middle;
 }
 
-/*.text-4xl {
+.text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
 }
-.text-base {
+
+/*.text-base {
   font-size: 1rem;
   line-height: 1.5rem;
 }
