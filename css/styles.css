@@ -1677,10 +1677,11 @@ video {
   font-weight: 700;
 }
 
-/*.font-medium {
+.font-medium {
   font-weight: 500;
 }
-.font-semibold {
+
+/*.font-semibold {
   font-weight: 600;
 }
 .uppercase {
