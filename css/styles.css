@@ -1507,11 +1507,12 @@ video {
   --tw-gradient-to: transparent var(--tw-gradient-to-position);
 }
 
-/*.bg-clip-text {
+.bg-clip-text {
   -webkit-background-clip: text;
   background-clip: text;
 }
-.object-cover {
+
+/*.object-cover {
   -o-object-fit: cover;
   object-fit: cover;
 }
