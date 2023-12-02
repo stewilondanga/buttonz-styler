@@ -1479,10 +1479,11 @@ video {
   --tw-gradient-to: #f9fafb var(--tw-gradient-to-position);
 }
 
-/*.to-gray-700 {
+.to-gray-700 {
   --tw-gradient-to: #374151 var(--tw-gradient-to-position);
 }
-.to-indigo-500 {
+
+/*.to-indigo-500 {
   --tw-gradient-to: #6366f1 var(--tw-gradient-to-position);
 }
 .to-pink-500 {
