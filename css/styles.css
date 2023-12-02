@@ -891,10 +891,11 @@ video {
   width: 2rem;
 }
 
-/*.w-auto {
+.w-auto {
   width: auto;
 }
-.w-full {
+
+/*.w-full {
   width: 100%;
 }
 .origin-bottom-left {
