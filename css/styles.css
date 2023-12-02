@@ -1194,11 +1194,12 @@ video {
   border-color: rgb(75 85 99 / var(--tw-border-opacity));
 }
 
-/*.border-gray-900 {
+.border-gray-900 {
   --tw-border-opacity: 1;
   border-color: rgb(17 24 39 / var(--tw-border-opacity));
 }
-.border-indigo-500 {
+
+/*.border-indigo-500 {
   --tw-border-opacity: 1;
   border-color: rgb(99 102 241 / var(--tw-border-opacity));
 }
