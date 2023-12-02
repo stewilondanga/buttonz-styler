@@ -1693,10 +1693,11 @@ video {
   line-height: 1.5rem;
 }
 
-/*.leading-\[50px\] {
+.leading-\[50px\] {
   line-height: 50px;
 }
-.leading-tight {
+
+/*.leading-tight {
   line-height: 1.25;
 }
 .tracking-tighter {
