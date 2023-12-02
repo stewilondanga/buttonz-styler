@@ -887,10 +887,11 @@ video {
   width: 16rem;
 }
 
-/*.w-8 {
+.w-8 {
   width: 2rem;
 }
-.w-auto {
+
+/*.w-auto {
   width: auto;
 }
 .w-full {
