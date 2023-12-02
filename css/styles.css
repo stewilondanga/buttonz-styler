@@ -1165,10 +1165,11 @@ video {
   border-top-width: 2px;
 }
 
-/*.border-solid {
+.border-solid {
   border-style: solid;
 }
-.border-black {
+
+/*.border-black {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
