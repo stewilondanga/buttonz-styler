@@ -1705,10 +1705,11 @@ video {
   letter-spacing: -0.05em;
 }
 
-/*.tracking-wide {
+.tracking-wide {
   letter-spacing: 0.025em;
 }
-.text-amber-300 {
+
+/*.text-amber-300 {
   --tw-text-opacity: 1;
   color: rgb(252 211 77 / var(--tw-text-opacity));
 }
