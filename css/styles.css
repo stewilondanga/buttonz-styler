@@ -1701,10 +1701,11 @@ video {
   line-height: 1.25;
 }
 
-/*.tracking-tighter {
+.tracking-tighter {
   letter-spacing: -0.05em;
 }
-.tracking-wide {
+
+/*.tracking-wide {
   letter-spacing: 0.025em;
 }
 .text-amber-300 {
