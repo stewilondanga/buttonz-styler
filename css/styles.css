@@ -907,10 +907,11 @@ video {
   transform-origin: center;
 }
 
-/*.origin-top-right {
+.origin-top-right {
   transform-origin: top right;
 }
-.-translate-x-1 {
+
+/*.-translate-x-1 {
   --tw-translate-x: -0.25rem;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y))
     rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
