@@ -1157,10 +1157,11 @@ video {
   border-bottom-width: 4px;
 }
 
-/*.border-l-2 {
+.border-l-2 {
   border-left-width: 2px;
 }
-.border-t-2 {
+
+/*.border-t-2 {
   border-top-width: 2px;
 }
 .border-solid {
