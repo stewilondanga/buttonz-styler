@@ -2586,9 +2586,10 @@ h6 {
   }
 }
 
-/*@media (min-width: 1024px) {
+@media (min-width: 1024px) {
   .lg\:flex {
     display: flex;
   }
 }
+
 /*# sourceMappingURL=style.min.css.map */
