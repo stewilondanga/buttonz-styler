@@ -2206,10 +2206,11 @@ h6 {
   --tw-gradient-to: #db2777 var(--tw-gradient-to-position);
 }
 
-/*.hover\:to-white:hover {
+.hover\:to-white:hover {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
-.hover\:pl-10:hover {
+
+/*.hover\:pl-10:hover {
   padding-left: 2.5rem;
 }
 .hover\:pr-6:hover {
