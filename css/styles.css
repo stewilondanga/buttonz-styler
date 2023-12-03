@@ -1936,10 +1936,11 @@ video {
   transition-delay: 0.1s;
 }
 
-/*.delay-200 {
+.delay-200 {
   transition-delay: 0.2s;
 }
-.delay-300 {
+
+/*.delay-300 {
   transition-delay: 0.3s;
 }
 .duration-100 {
