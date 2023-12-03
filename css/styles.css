@@ -2025,12 +2025,13 @@ h6 {
   width: 0;
 }
 
-/*.before\:bg-amber-300::before {
+.before\:bg-amber-300::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
   background-color: rgb(252 211 77 / var(--tw-bg-opacity));
 }
-.before\:transition-all::before {
+
+/*.before\:transition-all::before {
   content: var(--tw-content);
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
