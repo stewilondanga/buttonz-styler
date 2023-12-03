@@ -1790,10 +1790,11 @@ video {
   opacity: 0.1;
 }
 
-/*.opacity-100 {
+.opacity-100 {
   opacity: 1;
 }
-.opacity-30 {
+
+/*.opacity-30 {
   opacity: 0.3;
 }
 .opacity-5 {
