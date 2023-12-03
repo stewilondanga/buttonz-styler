@@ -2257,11 +2257,12 @@ h6 {
     var(--tw-shadow, 0 0 #0000);
 }
 
-/*.hover\:ring-green-400:hover {
+.hover\:ring-green-400:hover {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(74 222 128 / var(--tw-ring-opacity));
 }
-.hover\:ring-purple-500:hover {
+
+/*.hover\:ring-purple-500:hover {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(168 85 247 / var(--tw-ring-opacity));
 }
