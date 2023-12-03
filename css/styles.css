@@ -1773,11 +1773,12 @@ video {
   color: transparent;
 }
 
-/*.text-white {
+.text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-.no-underline {
+
+/*.no-underline {
   text-decoration-line: none;
 }
 .opacity-0 {
