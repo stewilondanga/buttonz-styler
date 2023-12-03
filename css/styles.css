@@ -2407,10 +2407,11 @@ h6 {
   width: 14rem;
 }
 
-/*.group:hover .group-hover\:w-full {
+.group:hover .group-hover\:w-full {
   width: 100%;
 }
-.group:hover .group-hover\:-translate-x-0 {
+
+/*.group:hover .group-hover\:-translate-x-0 {
   --tw-translate-x: -0px;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y))
     rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
