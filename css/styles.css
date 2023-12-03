@@ -2331,11 +2331,12 @@ h6 {
   --tw-ring-offset-width: 2px;
 }
 
-/*.active\:border-purple-600:active {
+.active\:border-purple-600:active {
   --tw-border-opacity: 1;
   border-color: rgb(147 51 234 / var(--tw-border-opacity));
 }
-.active\:to-white:active {
+
+/*.active\:to-white:active {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
 .active\:shadow-none:active {
