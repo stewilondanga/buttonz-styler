@@ -2102,11 +2102,12 @@ h6 {
   border-color: rgb(29 78 216 / var(--tw-border-opacity));
 }
 
-/*.focus-within\:bg-blue-700:focus-within {
+.focus-within\:bg-blue-700:focus-within {
   --tw-bg-opacity: 1;
   background-color: rgb(29 78 216 / var(--tw-bg-opacity));
 }
-.hover\:border-blue-600:hover {
+
+/*.hover\:border-blue-600:hover {
   --tw-border-opacity: 1;
   border-color: rgb(37 99 235 / var(--tw-border-opacity));
 }
