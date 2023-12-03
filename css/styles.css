@@ -2275,10 +2275,11 @@ h6 {
   --tw-ring-offset-color: #6366f1;
 }
 
-/*.hover\:delay-\[\.5s\]:hover {
+.hover\:delay-\[\.5s\]:hover {
   transition-delay: 0.5s;
 }
-.before\:hover\:w-full:hover::before {
+
+/*.before\:hover\:w-full:hover::before {
   content: var(--tw-content);
   width: 100%;
 }
