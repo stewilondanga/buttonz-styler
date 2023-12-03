@@ -2267,10 +2267,11 @@ h6 {
   --tw-ring-color: rgb(168 85 247 / var(--tw-ring-opacity));
 }
 
-/*.hover\:ring-offset-2:hover {
+.hover\:ring-offset-2:hover {
   --tw-ring-offset-width: 2px;
 }
-.hover\:ring-offset-indigo-500:hover {
+
+/*.hover\:ring-offset-indigo-500:hover {
   --tw-ring-offset-color: #6366f1;
 }
 .hover\:delay-\[\.5s\]:hover {
