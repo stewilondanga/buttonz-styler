@@ -2387,10 +2387,11 @@ h6 {
   height: 8rem;
 }
 
-/*.group:hover .group-hover\:h-56 {
+.group:hover .group-hover\:h-56 {
   height: 14rem;
 }
-.group:hover .group-hover\:h-64 {
+
+/*.group:hover .group-hover\:h-64 {
   height: 16rem;
 }
 .group:hover .group-hover\:h-full {
