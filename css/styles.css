@@ -2403,10 +2403,11 @@ h6 {
   width: 8rem;
 }
 
-/*.group:hover .group-hover\:w-56 {
+.group:hover .group-hover\:w-56 {
   width: 14rem;
 }
-.group:hover .group-hover\:w-full {
+
+/*.group:hover .group-hover\:w-full {
   width: 100%;
 }
 .group:hover .group-hover\:-translate-x-0 {
