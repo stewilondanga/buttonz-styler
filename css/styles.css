@@ -2015,11 +2015,12 @@ h6 {
   left: 0;
 }
 
-/*.before\:h-\[2px\]::before {
+.before\:h-\[2px\]::before {
   content: var(--tw-content);
   height: 2px;
 }
-.before\:w-0::before {
+
+/*.before\:w-0::before {
   content: var(--tw-content);
   width: 0;
 }
