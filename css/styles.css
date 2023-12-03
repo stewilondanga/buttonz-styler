@@ -2063,11 +2063,12 @@ h6 {
   z-index: -10;
 }
 
-/*.after\:h-0::after {
+.after\:h-0::after {
   content: var(--tw-content);
   height: 0;
 }
-.after\:w-full::after {
+
+/*.after\:w-full::after {
   content: var(--tw-content);
   width: 100%;
 }
