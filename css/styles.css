@@ -2112,11 +2112,12 @@ h6 {
   border-color: rgb(37 99 235 / var(--tw-border-opacity));
 }
 
-/*.hover\:border-blue-700:hover {
+.hover\:border-blue-700:hover {
   --tw-border-opacity: 1;
   border-color: rgb(29 78 216 / var(--tw-border-opacity));
 }
-.hover\:border-sky-500:hover {
+
+/*.hover\:border-sky-500:hover {
   --tw-border-opacity: 1;
   border-color: rgb(14 165 233 / var(--tw-border-opacity));
 }
