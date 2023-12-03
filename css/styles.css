@@ -2500,11 +2500,12 @@ h6 {
   background-color: rgb(147 51 234 / var(--tw-bg-opacity));
 }
 
-/*.group:hover .group-hover\:bg-purple-700 {
+.group:hover .group-hover\:bg-purple-700 {
   --tw-bg-opacity: 1;
   background-color: rgb(126 34 206 / var(--tw-bg-opacity));
 }
-.group:hover .group-hover\:bg-opacity-0 {
+
+/*.group:hover .group-hover\:bg-opacity-0 {
   --tw-bg-opacity: 0;
 }
 .group:hover .group-hover\:from-\[\#ff00c6\] {
