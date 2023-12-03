@@ -1948,10 +1948,11 @@ video {
   transition-duration: 0.1s;
 }
 
-/*.duration-1000 {
+.duration-1000 {
   transition-duration: 1s;
 }
-.duration-150 {
+
+/*.duration-150 {
   transition-duration: 150ms;
 }
 .duration-200 {
