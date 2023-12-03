@@ -1968,10 +1968,11 @@ video {
   transition-duration: 0.5s;
 }
 
-/*.duration-700 {
+.duration-700 {
   transition-duration: 0.7s;
 }
-.ease-in-out {
+
+/*.ease-in-out {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .ease-linear {
