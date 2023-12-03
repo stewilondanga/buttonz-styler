@@ -1889,10 +1889,11 @@ video {
   --tw-ring-color: rgb(165 180 252 / var(--tw-ring-opacity));
 }
 
-/*.ring-offset-2 {
+.ring-offset-2 {
   --tw-ring-offset-width: 2px;
 }
-.ring-offset-indigo-200 {
+
+/*.ring-offset-indigo-200 {
   --tw-ring-offset-color: #c7d2fe;
 }
 .blur-md {
