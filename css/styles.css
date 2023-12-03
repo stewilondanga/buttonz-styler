@@ -2048,11 +2048,12 @@ h6 {
   position: absolute;
 }
 
-/*.after\:bottom-0::after {
+.after\:bottom-0::after {
   content: var(--tw-content);
   bottom: 0;
 }
-.after\:left-0::after {
+
+/*.after\:left-0::after {
   content: var(--tw-content);
   left: 0;
 }
