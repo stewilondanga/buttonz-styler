@@ -2233,11 +2233,12 @@ h6 {
   color: rgb(75 85 99 / var(--tw-text-opacity));
 }
 
-/*.hover\:text-sky-500:hover {
+.hover\:text-sky-500:hover {
   --tw-text-opacity: 1;
   color: rgb(14 165 233 / var(--tw-text-opacity));
 }
-.hover\:text-white:hover {
+
+/*.hover\:text-white:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
