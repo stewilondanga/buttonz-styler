@@ -2305,11 +2305,12 @@ h6 {
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-/*.focus\:outline-none:focus {
+.focus\:outline-none:focus {
   outline: transparent solid 2px;
   outline-offset: 2px;
 }
-.focus\:ring-2:focus {
+
+/*.focus\:ring-2:focus {
   --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0
     var(--tw-ring-offset-width) var(--tw-ring-offset-color);
   --tw-ring-shadow: var(--tw-ring-inset) 0 0 0
