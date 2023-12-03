@@ -2043,11 +2043,12 @@ h6 {
   transition-duration: 0.5s;
 }
 
-/*.after\:absolute::after {
+.after\:absolute::after {
   content: var(--tw-content);
   position: absolute;
 }
-.after\:bottom-0::after {
+
+/*.after\:bottom-0::after {
   content: var(--tw-content);
   bottom: 0;
 }
