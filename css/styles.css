@@ -2068,11 +2068,12 @@ h6 {
   height: 0;
 }
 
-/*.after\:w-full::after {
+.after\:w-full::after {
   content: var(--tw-content);
   width: 100%;
 }
-.after\:bg-amber-300::after {
+
+/*.after\:bg-amber-300::after {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
   background-color: rgb(252 211 77 / var(--tw-bg-opacity));
