@@ -2553,10 +2553,11 @@ h6 {
   background-color: transparent;
 }
 
-/*.group:active .group-active\:opacity-0 {
+.group:active .group-active\:opacity-0 {
   opacity: 0;
 }
-@media (min-width: 640px) {
+
+/*@media (min-width: 640px) {
   .sm\:mb-0 {
     margin-bottom: 0;
   }
