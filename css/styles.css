@@ -2053,11 +2053,12 @@ h6 {
   bottom: 0;
 }
 
-/*.after\:left-0::after {
+.after\:left-0::after {
   content: var(--tw-content);
   left: 0;
 }
-.after\:-z-10::after {
+
+/*.after\:-z-10::after {
   content: var(--tw-content);
   z-index: -10;
 }
