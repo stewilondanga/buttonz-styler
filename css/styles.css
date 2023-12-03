@@ -2218,11 +2218,12 @@ h6 {
   padding-right: 1.5rem;
 }
 
-/*.hover\:text-black:hover {
+.hover\:text-black:hover {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
-.hover\:text-blue-600:hover {
+
+/*.hover\:text-blue-600:hover {
   --tw-text-opacity: 1;
   color: rgb(37 99 235 / var(--tw-text-opacity));
 }
