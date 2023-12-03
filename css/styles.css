@@ -2340,13 +2340,14 @@ h6 {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
 
-/*.active\:shadow-none:active {
+.active\:shadow-none:active {
   --tw-shadow: 0 0 #0000;
   --tw-shadow-colored: 0 0 #0000;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
-.group:hover .group-hover\:top-0 {
+
+/*.group:hover .group-hover\:top-0 {
   top: 0;
 }
 .group:hover .group-hover\:-mr-4 {
