@@ -2137,11 +2137,12 @@ h6 {
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
 
-/*.hover\:bg-gray-50:hover {
+.hover\:bg-gray-50:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(249 250 251 / var(--tw-bg-opacity));
 }
-.hover\:bg-gray-700:hover {
+
+/*.hover\:bg-gray-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(55 65 81 / var(--tw-bg-opacity));
 }
