@@ -1782,10 +1782,11 @@ video {
   text-decoration-line: none;
 }
 
-/*.opacity-0 {
+.opacity-0 {
   opacity: 0;
 }
-.opacity-10 {
+
+/*.opacity-10 {
   opacity: 0.1;
 }
 .opacity-100 {
