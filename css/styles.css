@@ -2262,11 +2262,12 @@ h6 {
   --tw-ring-color: rgb(74 222 128 / var(--tw-ring-opacity));
 }
 
-/*.hover\:ring-purple-500:hover {
+.hover\:ring-purple-500:hover {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(168 85 247 / var(--tw-ring-opacity));
 }
-.hover\:ring-offset-2:hover {
+
+/*.hover\:ring-offset-2:hover {
   --tw-ring-offset-width: 2px;
 }
 .hover\:ring-offset-indigo-500:hover {
