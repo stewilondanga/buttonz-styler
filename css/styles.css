@@ -2327,10 +2327,11 @@ h6 {
   --tw-ring-color: rgb(79 70 229 / var(--tw-ring-opacity));
 }
 
-/*.focus\:ring-offset-2:focus {
+.focus\:ring-offset-2:focus {
   --tw-ring-offset-width: 2px;
 }
-.active\:border-purple-600:active {
+
+/*.active\:border-purple-600:active {
   --tw-border-opacity: 1;
   border-color: rgb(147 51 234 / var(--tw-border-opacity));
 }
