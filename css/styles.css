@@ -2359,10 +2359,11 @@ h6 {
   margin-top: -1rem;
 }
 
-/*.group:hover .group-hover\:mb-0 {
+.group:hover .group-hover\:mb-0 {
   margin-bottom: 0;
 }
-.group:hover .group-hover\:mb-12 {
+
+/*.group:hover .group-hover\:mb-12 {
   margin-bottom: 3rem;
 }
 .group:hover .group-hover\:mb-32 {
