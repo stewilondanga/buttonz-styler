@@ -2092,11 +2092,12 @@ h6 {
   transition-duration: 150ms;
 }
 
-/*.after\:duration-500::after {
+.after\:duration-500::after {
   content: var(--tw-content);
   transition-duration: 0.5s;
 }
-.focus-within\:border-blue-700:focus-within {
+
+/*.focus-within\:border-blue-700:focus-within {
   --tw-border-opacity: 1;
   border-color: rgb(29 78 216 / var(--tw-border-opacity));
 }
