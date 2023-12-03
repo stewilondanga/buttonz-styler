@@ -2038,11 +2038,12 @@ h6 {
   transition-duration: 150ms;
 }
 
-/*.before\:duration-500::before {
+.before\:duration-500::before {
   content: var(--tw-content);
   transition-duration: 0.5s;
 }
-.after\:absolute::after {
+
+/*.after\:absolute::after {
   content: var(--tw-content);
   position: absolute;
 }
