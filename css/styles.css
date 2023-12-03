@@ -2073,12 +2073,13 @@ h6 {
   width: 100%;
 }
 
-/*.after\:bg-amber-300::after {
+.after\:bg-amber-300::after {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
   background-color: rgb(252 211 77 / var(--tw-bg-opacity));
 }
-.after\:text-white::after {
+
+/*.after\:text-white::after {
   content: var(--tw-content);
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
