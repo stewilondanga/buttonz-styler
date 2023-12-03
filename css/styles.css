@@ -2399,10 +2399,11 @@ h6 {
   height: 100%;
 }
 
-/*.group:hover .group-hover\:w-32 {
+.group:hover .group-hover\:w-32 {
   width: 8rem;
 }
-.group:hover .group-hover\:w-56 {
+
+/*.group:hover .group-hover\:w-56 {
   width: 14rem;
 }
 .group:hover .group-hover\:w-full {
