@@ -2223,15 +2223,17 @@ h6 {
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
-/*.hover\:text-blue-600:hover {
+.hover\:text-blue-600:hover {
   --tw-text-opacity: 1;
   color: rgb(37 99 235 / var(--tw-text-opacity));
 }
+
 .hover\:text-gray-600:hover {
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity));
 }
-.hover\:text-sky-500:hover {
+
+/*.hover\:text-sky-500:hover {
   --tw-text-opacity: 1;
   color: rgb(14 165 233 / var(--tw-text-opacity));
 }
