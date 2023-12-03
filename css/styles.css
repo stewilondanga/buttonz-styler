@@ -2279,11 +2279,12 @@ h6 {
   transition-delay: 0.5s;
 }
 
-/*.before\:hover\:w-full:hover::before {
+.before\:hover\:w-full:hover::before {
   content: var(--tw-content);
   width: 100%;
 }
-.after\:hover\:h-full:hover::after {
+
+/*.after\:hover\:h-full:hover::after {
   content: var(--tw-content);
   height: 100%;
 }
