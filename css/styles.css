@@ -2571,19 +2571,22 @@ h6 {
   }
 }
 
-/*@media (min-width: 768px) {
+@media (min-width: 768px) {
   .md\:mx-0 {
     margin-left: 0;
     margin-right: 0;
   }
+
   .md\:w-auto {
     width: auto;
   }
+
   .md\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
-@media (min-width: 1024px) {
+
+/*@media (min-width: 1024px) {
   .lg\:flex {
     display: flex;
   }
