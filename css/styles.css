@@ -2395,10 +2395,11 @@ h6 {
   height: 16rem;
 }
 
-/*.group:hover .group-hover\:h-full {
+.group:hover .group-hover\:h-full {
   height: 100%;
 }
-.group:hover .group-hover\:w-32 {
+
+/*.group:hover .group-hover\:w-32 {
   width: 8rem;
 }
 .group:hover .group-hover\:w-56 {
