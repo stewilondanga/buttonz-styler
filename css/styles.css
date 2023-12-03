@@ -2171,11 +2171,12 @@ h6 {
   background-color: transparent;
 }
 
-/*.hover\:bg-white:hover {
+.hover\:bg-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
-.hover\:bg-gradient-to-r:hover {
+
+/*.hover\:bg-gradient-to-r:hover {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 .hover\:from-gray-50:hover {
