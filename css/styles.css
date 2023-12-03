@@ -1952,10 +1952,11 @@ video {
   transition-duration: 1s;
 }
 
-/*.duration-150 {
+.duration-150 {
   transition-duration: 150ms;
 }
-.duration-200 {
+
+/*.duration-200 {
   transition-duration: 0.2s;
 }
 .duration-300 {
