@@ -2010,11 +2010,12 @@ h6 {
   bottom: 0;
 }
 
-/*.before\:left-0::before {
+.before\:left-0::before {
   content: var(--tw-content);
   left: 0;
 }
-.before\:h-\[2px\]::before {
+
+/*.before\:h-\[2px\]::before {
   content: var(--tw-content);
   height: 2px;
 }
