@@ -1759,11 +1759,12 @@ video {
   color: rgb(79 70 229 / var(--tw-text-opacity));
 }
 
-/*.text-purple-500 {
+.text-purple-500 {
   --tw-text-opacity: 1;
   color: rgb(168 85 247 / var(--tw-text-opacity));
 }
-.text-purple-600 {
+
+/*.text-purple-600 {
   --tw-text-opacity: 1;
   color: rgb(147 51 234 / var(--tw-text-opacity));
 }
