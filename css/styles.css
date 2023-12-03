@@ -2202,10 +2202,11 @@ h6 {
   --tw-gradient-to: #4ade80 var(--tw-gradient-to-position);
 }
 
-/*.hover\:to-pink-600:hover {
+.hover\:to-pink-600:hover {
   --tw-gradient-to: #db2777 var(--tw-gradient-to-position);
 }
-.hover\:to-white:hover {
+
+/*.hover\:to-white:hover {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
 .hover\:pl-10:hover {
