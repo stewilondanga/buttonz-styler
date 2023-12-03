@@ -2336,10 +2336,11 @@ h6 {
   border-color: rgb(147 51 234 / var(--tw-border-opacity));
 }
 
-/*.active\:to-white:active {
+.active\:to-white:active {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
 }
-.active\:shadow-none:active {
+
+/*.active\:shadow-none:active {
   --tw-shadow: 0 0 #0000;
   --tw-shadow-colored: 0 0 #0000;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
