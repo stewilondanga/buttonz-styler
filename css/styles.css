@@ -1814,10 +1814,11 @@ video {
   opacity: 0.9;
 }
 
-/*.opacity-\[3\%\] {
+.opacity-\[3\%\] {
   opacity: 3%;
 }
-.mix-blend-screen {
+
+/*.mix-blend-screen {
   mix-blend-mode: screen;
 }
 .shadow {
