@@ -2085,13 +2085,14 @@ h6 {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-/*.after\:transition-all::after {
+.after\:transition-all::after {
   content: var(--tw-content);
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
-.after\:duration-500::after {
+
+/*.after\:duration-500::after {
   content: var(--tw-content);
   transition-duration: 0.5s;
 }
