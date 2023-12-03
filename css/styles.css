@@ -2505,10 +2505,11 @@ h6 {
   background-color: rgb(126 34 206 / var(--tw-bg-opacity));
 }
 
-/*.group:hover .group-hover\:bg-opacity-0 {
+.group:hover .group-hover\:bg-opacity-0 {
   --tw-bg-opacity: 0;
 }
-.group:hover .group-hover\:from-\[\#ff00c6\] {
+
+/*.group:hover .group-hover\:from-\[\#ff00c6\] {
   --tw-gradient-from: #ff00c6 var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(255 0 198 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
