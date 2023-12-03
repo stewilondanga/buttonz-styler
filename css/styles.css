@@ -1984,13 +1984,14 @@ video {
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
 }
 
-/*body {
+body {
   font-size: 15px;
   overflow-x: hidden;
   --tw-text-opacity: 1;
   color: rgb(55 65 81 / var(--tw-text-opacity));
 }
-h1,
+
+/*h1,
 h2,
 h3,
 h4,
