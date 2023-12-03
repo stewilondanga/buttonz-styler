@@ -2284,11 +2284,12 @@ h6 {
   width: 100%;
 }
 
-/*.after\:hover\:h-full:hover::after {
+.after\:hover\:h-full:hover::after {
   content: var(--tw-content);
   height: 100%;
 }
-.after\:hover\:delay-\[0\.4s\]:hover::after {
+
+/*.after\:hover\:delay-\[0\.4s\]:hover::after {
   content: var(--tw-content);
   transition-delay: 0.4s;
 }
