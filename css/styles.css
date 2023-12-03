@@ -1932,10 +1932,11 @@ video {
   transition-duration: 150ms;
 }
 
-/*.delay-100 {
+.delay-100 {
   transition-delay: 0.1s;
 }
-.delay-200 {
+
+/*.delay-200 {
   transition-delay: 0.2s;
 }
 .delay-300 {
