@@ -2005,11 +2005,12 @@ h6 {
   position: absolute;
 }
 
-/*.before\:bottom-0::before {
+.before\:bottom-0::before {
   content: var(--tw-content);
   bottom: 0;
 }
-.before\:left-0::before {
+
+/*.before\:left-0::before {
   content: var(--tw-content);
   left: 0;
 }
