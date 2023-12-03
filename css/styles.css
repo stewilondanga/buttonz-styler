@@ -2317,11 +2317,12 @@ h6 {
     var(--tw-shadow, 0 0 #0000);
 }
 
-/*.focus\:ring-blue-500:focus {
+.focus\:ring-blue-500:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(59 130 246 / var(--tw-ring-opacity));
 }
-.focus\:ring-indigo-600:focus {
+
+/*.focus\:ring-indigo-600:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(79 70 229 / var(--tw-ring-opacity));
 }
