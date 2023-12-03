@@ -2289,11 +2289,12 @@ h6 {
   height: 100%;
 }
 
-/*.after\:hover\:delay-\[0\.4s\]:hover::after {
+.after\:hover\:delay-\[0\.4s\]:hover::after {
   content: var(--tw-content);
   transition-delay: 0.4s;
 }
-.focus\:no-underline:focus {
+
+/*.focus\:no-underline:focus {
   text-decoration-line: none;
 }
 .focus\:shadow-none:focus {
