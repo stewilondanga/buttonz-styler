@@ -2347,10 +2347,11 @@ h6 {
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-/*.group:hover .group-hover\:top-0 {
+.group:hover .group-hover\:top-0 {
   top: 0;
 }
-.group:hover .group-hover\:-mr-4 {
+
+/*.group:hover .group-hover\:-mr-4 {
   margin-right: -1rem;
 }
 .group:hover .group-hover\:-mt-4 {
